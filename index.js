@@ -1,5 +1,5 @@
 // шаг 1. создаем корзину
-let shoppingCart = {
+const shoppingCart = {
     items: [],
     total: 0,
   
